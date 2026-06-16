@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "PIP_INDEX_URL is: $PIP_INDEX_URL"
+source /usr/libexec/s2i/assemble
